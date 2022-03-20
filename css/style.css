@@ -1,0 +1,19 @@
+.navhover:hover{
+    color: gray !important;
+}
+.lst a{
+    text-decoration: none !important;
+}
+.lst a:hover{
+    color: gray;
+    text-decoration: underline !important;
+}
+.footera a{
+    color: gray !important;
+}
+.fs-6{
+    font-size: 14px !important;
+}
+.bg-koyu{
+    background-color: rgb(19, 19, 19) !important;
+}
